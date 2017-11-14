@@ -427,7 +427,7 @@ input[type=checkbox]{
 
 *:focus{outline: none;}
 
-.my-email,
+.my-email{text-align:center;}
 .my-phone{
     text-align:center;
 }

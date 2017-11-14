@@ -427,9 +427,11 @@ input[type=checkbox]{
 
 *:focus{outline: none;}
 
-.my-email{text-align:center;}
-.my-phone{
-    text-align:center;
+.memail{
+    text-align: center;
+}
+.mphone{
+    text-align: center;
 }
 
 /*-------------------------*/

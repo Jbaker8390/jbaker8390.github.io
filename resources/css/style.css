@@ -396,7 +396,7 @@ text-align: center;
 .section-timeline h2:after{content: none;}
 
 /*-------------------------*/
-/*FORM*/
+/*ABOUT ME*/
 /*-------------------------*/
 
 .contact-me h3{
@@ -427,6 +427,10 @@ input[type=checkbox]{
 
 *:focus{outline: none;}
 
+.my-email,
+.my-phone{
+    text-align:center;
+}
 
 /*-------------------------*/
 /*Footer*/

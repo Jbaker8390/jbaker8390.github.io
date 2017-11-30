@@ -149,7 +149,7 @@ input[type=submit]:active{
 /*HEADER*/
 /*-------------------------*/
 header{
-    background-image:linear-gradient(rgba(255, 255, 255, 0), rgba(0, 0, 0, 0.4)), url(img/133D.jpg);
+    background-image:linear-gradient(rgba(255, 255, 255, 0), rgba(0, 0, 0, 0.4)), url(img/133D-min.jpg);
     background-size: cover;
     background-position: center;
     height: 100vh;

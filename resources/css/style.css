@@ -263,9 +263,10 @@ header{
 }
 
 .box .UR{
-    width: 100%;
+    width: 70%;
     margin: 0;
     height: 333px;
+    margin: 0 15%;
     margin-bottom: 30px;
 }
 
